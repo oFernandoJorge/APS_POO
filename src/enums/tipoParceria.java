@@ -1,7 +1,7 @@
 package enums;
 
 //Níveis de parceria disponíveis para patrocinadores.
-public enum tipoParceria {
+public enum TipoParceria {
     BRONZE,
     PRATA,
     OURO,
