@@ -50,7 +50,7 @@ public class Inscricao {
         }
     }
 
-    public void exibirDetalhes() {
+    public void exibirInformacoes() {
         String tempo = tempoFinal == null
                 ? "Aguardando prova..."
                 : Formatador.minutos(tempoFinal);

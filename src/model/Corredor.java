@@ -1,6 +1,7 @@
 package model;
 
 import enums.Categoria;
+import util.Formatador;
 
 public class Corredor extends Participante {
     private int idade;
